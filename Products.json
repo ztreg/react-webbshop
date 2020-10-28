@@ -1,0 +1,693 @@
+{
+  "products": {
+    "16065": {
+      "description": "Please don't eat this one... for real!",
+      "id": 16065,
+      "images": [
+        {
+          "alt": "an orange painted blue",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/mysterious-orange_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/mysterious-orange_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/mysterious-orange_S.jpg"
+          }
+        }
+      ],
+      "name": "Mysterious Orange",
+      "price": 324,
+      "rating": 4.7,
+      "stock": 7
+    },
+    "18272": {
+      "description": "Get this rare pieace of tech that has been hand painted in a matte white finnish!",
+      "id": 18272,
+      "images": [
+        {
+          "alt": "a white playstation",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/white-playstation_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/white-playstation_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/white-playstation_S.jpg"
+          }
+        }
+      ],
+      "name": "White Playstation",
+      "price": 4595,
+      "rating": 4.5,
+      "stock": 2
+    },
+    "19336": {
+      "description": "Want to look cool whilst listening to some sweet music? Get theese matte black over-the-ear headphones today!",
+      "id": 19336,
+      "images": [
+        {
+          "alt": "black hadphones",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/black-headphones_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/black-headphones_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/black-headphones_S.jpg"
+          }
+        }
+      ],
+      "name": "Black Headphones",
+      "price": 3426,
+      "rating": 3.5,
+      "stock": 200
+    },
+    "20281": {
+      "description": "Drink a lot of water? Don't know where to store your water once it leaves the faucet... tired of having to drink straight from the sink? The wait is over with this unique set of Porcelain Carafes.",
+      "id": 20281,
+      "images": [
+        {
+          "alt": "a set of 3 porcelain carafes",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/set-of-3-porcelain-carafes_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/set-of-3-porcelain-carafes_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/set-of-3-porcelain-carafes_S.jpg"
+          }
+        }
+      ],
+      "name": "Set of 3 Porcelain Carafes",
+      "price": 399,
+      "rating": 2.1,
+      "stock": 12
+    },
+    "23787": {
+      "description": "Having trouble getting up in the morning? Scared that you might hit the snooze-button so hard the display on your smartphone cracks... again... Fear not! We present to you the original alarm clock! And no...it doesn't have any apps!",
+      "id": 23787,
+      "images": [
+        {
+          "alt": "alarm clock",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/alarm-clock_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/alarm-clock_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/alarm-clock_S.jpg"
+          }
+        }
+      ],
+      "name": "Alarm Clock",
+      "price": 349,
+      "rating": 3.1,
+      "stock": 13
+    },
+    "24524": {
+      "description": "Tired of Instagram filters? Spice things up with the original Instant camera!",
+      "id": 24524,
+      "images": [
+        {
+          "alt": "polaroid instant camera",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/polaroid-pronto600-camera_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/polaroid-pronto600-camera_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/polaroid-pronto600-camera_S.jpg"
+          }
+        }
+      ],
+      "name": "Polaroid Pronto600 Camera",
+      "price": 679,
+      "rating": 4.6,
+      "stock": 53
+    },
+    "28261": {
+      "description": "This is it! The answer to all your questions... just don't ask me where it goes...",
+      "id": 28261,
+      "images": [
+        {
+          "alt": "a metal key",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/the-key-to-happiness_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/the-key-to-happiness_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/the-key-to-happiness_S.jpg"
+          }
+        }
+      ],
+      "name": "The Key to Happiness",
+      "price": 6575,
+      "rating": 5,
+      "stock": 1
+    },
+    "33646": {
+      "description": "We really have no idea why thiss bottle costs so much but hey... people are buying them like crazy... so we keep raising them prices! #profit",
+      "id": 33646,
+      "images": [
+        {
+          "alt": "a simple water bottle",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/larq-bottle_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/larq-bottle_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/larq-bottle_S.jpg"
+          }
+        }
+      ],
+      "name": "LARQ Bottle",
+      "price": 465,
+      "rating": 3.5,
+      "stock": 190
+    },
+    "33703": {
+      "description": "Want to take your photography to the next level? Why not try out a real film camera? Buy this unique piece of glass and steal and get creative.",
+      "id": 33703,
+      "images": [
+        {
+          "alt": "film camera",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/rolleiflex-camera_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/rolleiflex-camera_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/rolleiflex-camera_S.jpg"
+          }
+        }
+      ],
+      "name": "Rolleiflex Camera",
+      "price": 1249,
+      "rating": 4.7,
+      "stock": 1
+    },
+    "34592": {
+      "description": "Do we really have to explain this one? Somethings are just better with mustard!",
+      "id": 34592,
+      "images": [
+        {
+          "alt": "a tube of mustard",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/heinz-yellow-mustard_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/heinz-yellow-mustard_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/heinz-yellow-mustard_S.jpg"
+          }
+        }
+      ],
+      "name": "Heinz Yellow Mustard",
+      "price": 23,
+      "rating": 4.8,
+      "stock": 20
+    },
+    "34696": {
+      "description": "Bought a camera but forgot the lens? We've got you covered!",
+      "id": 34696,
+      "images": [
+        {
+          "alt": "a camera lens",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/nikon-camera-lens_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/nikon-camera-lens_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/nikon-camera-lens_S.jpg"
+          }
+        }
+      ],
+      "name": "Nikon Camera Lens",
+      "price": 19857,
+      "rating": 4.9,
+      "stock": 1
+    },
+    "36849": {
+      "description": "Theese plants are all the rave right now! Use your FOMO (Fear of Missing Out) and buy one today!",
+      "id": 36849,
+      "images": [
+        {
+          "alt": "a plant in a pot",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/succulent-green_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/succulent-green_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/succulent-green_S.jpg"
+          }
+        }
+      ],
+      "name": "Succulent Green",
+      "price": 69,
+      "stock": 14
+    },
+    "38424": {
+      "description": "Just a real pale stool, nothing fancy about it.",
+      "id": 38424,
+      "images": [
+        {
+          "alt": "a stool",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/pale-stool_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/pale-stool_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/pale-stool_S.jpg"
+          }
+        }
+      ],
+      "name": "Pale Stool",
+      "price": 795,
+      "stock": 0
+    },
+    "43638": {
+      "description": "Want to become a New York Times best selling author? Look no further! Do it right from the beginning by purchasing a real typewriter, just like the pros!",
+      "id": 43638,
+      "images": [
+        {
+          "alt": "a typewriter",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/typewriter_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/typewriter_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/typewriter_S.jpg"
+          }
+        }
+      ],
+      "name": "Typewriter",
+      "price": 1495,
+      "rating": 3.5,
+      "stock": 2
+    },
+    "45927": {
+      "description": "Stay alive! Buy this!",
+      "id": 45927,
+      "images": [
+        {
+          "alt": "a healthy drink",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/vitality-shot_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/vitality-shot_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/vitality-shot_S.jpg"
+          }
+        }
+      ],
+      "name": "Vitality Shot",
+      "price": 47,
+      "rating": 3.4,
+      "stock": 245
+    },
+    "50191": {
+      "description": "Whaaaat! Look at it! Isn't it cute? I think so, and so should you! Buy it!",
+      "id": 50191,
+      "images": [
+        {
+          "alt": "a cactus in a pot",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/cute-cactus_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/cute-cactus_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/cute-cactus_S.jpg"
+          }
+        }
+      ],
+      "name": "Cute Cactus",
+      "price": 63,
+      "rating": 4.4,
+      "stock": 17
+    },
+    "55067": {
+      "description": "Need to take some grat photos? Get a real camera!",
+      "id": 55067,
+      "images": [
+        {
+          "alt": "DSLR camera",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/nikon-camera-with-lens_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/nikon-camera-with-lens_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/nikon-camera-with-lens_S.jpg"
+          }
+        }
+      ],
+      "name": "Nikon Camera With Lens",
+      "price": 26784,
+      "rating": 3.4,
+      "stock": 1
+    },
+    "55955": {
+      "description": "What is on this mixtape made by a music legend? There is only one way to tell (Yeah, that's right, the answer is to buy it and listen to it to find out!).",
+      "id": 55955,
+      "images": [
+        {
+          "alt": "a cassette",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/rare-mystery-mixtape_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/rare-mystery-mixtape_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/rare-mystery-mixtape_S.jpg"
+          }
+        }
+      ],
+      "name": "Rare Mystery Mixtape",
+      "price": 3145,
+      "rating": 4.6,
+      "stock": 1
+    },
+    "61197": {
+      "description": "Short on dough? Wanted to buy a DSLR camera but don't have the funds? This is the next best thing!",
+      "id": 61197,
+      "images": [
+        {
+          "alt": "comapact camera",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/autostar-camera_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/autostar-camera_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/autostar-camera_S.jpg"
+          }
+        }
+      ],
+      "name": "Autostar Camera",
+      "price": 420,
+      "rating": 2.1,
+      "stock": 1
+    },
+    "64866": {
+      "description": "Take a look at youself! No, seriously! Do it with this magic mirror!",
+      "id": 64866,
+      "images": [
+        {
+          "alt": "mirror",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/mirror-mirror-on-the-blue-backdrop_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/mirror-mirror-on-the-blue-backdrop_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/mirror-mirror-on-the-blue-backdrop_S.jpg"
+          }
+        }
+      ],
+      "name": "Mirror Mirror on The Blue Backdrop",
+      "price": 276,
+      "rating": 5,
+      "stock": 59
+    },
+    "72067": {
+      "description": "With my sunglasses on, I'm Jack Nicholson. Without them, I'm fat and 60. Want to be cool? Buy theese glasses!",
+      "id": 72067,
+      "images": [
+        {
+          "alt": "sunglasses",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/cool-sunglasses_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/cool-sunglasses_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/cool-sunglasses_S.jpg"
+          }
+        }
+      ],
+      "name": "Cool Sunglasses",
+      "price": 2659,
+      "rating": 4.3,
+      "stock": 342
+    },
+    "78960": {
+      "description": "Get the oil that everyone is going Loco over... Go Coco-Loco with this coconut oil.",
+      "id": 78960,
+      "images": [
+        {
+          "alt": "coconut oil",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/coconut-oil_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/coconut-oil_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/coconut-oil_S.jpg"
+          }
+        }
+      ],
+      "name": "Coconut Oil",
+      "price": 159,
+      "rating": 3,
+      "stock": 42
+    },
+    "82614": {
+      "description": "We couldn't find the right one, so... here you go!",
+      "id": 82614,
+      "images": [
+        {
+          "alt": "a sneaker",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/a-left-sneaker_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/a-left-sneaker_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/a-left-sneaker_S.jpg"
+          }
+        }
+      ],
+      "name": "A Left Sneaker",
+      "price": 143,
+      "stock": 1
+    },
+    "83687": {
+      "description": "Why not?",
+      "id": 83687,
+      "images": [
+        {
+          "alt": "a banana",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/yellow-banana_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/yellow-banana_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/yellow-banana_S.jpg"
+          }
+        }
+      ],
+      "name": "Yellow Banana",
+      "price": 7,
+      "rating": 4.6,
+      "stock": 15
+    },
+    "84108": {
+      "description": "Light up someones day with this blue lighter!",
+      "id": 84108,
+      "images": [
+        {
+          "alt": "a lighter",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/blue-lighter_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/blue-lighter_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/blue-lighter_S.jpg"
+          }
+        }
+      ],
+      "name": "Blue Lighter",
+      "price": 23,
+      "rating": 3.2,
+      "stock": 2
+    },
+    "93102": {
+      "description": "Will it shine? That is the question... Is this the solution to dark-matter? Who knows...",
+      "id": 93102,
+      "images": [
+        {
+          "alt": "a black lightbulb",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/black-lightbulb_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/black-lightbulb_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/black-lightbulb_S.jpg"
+          }
+        }
+      ],
+      "name": "Black Lightbulb",
+      "price": 369,
+      "rating": 2.1,
+      "stock": 0
+    },
+    "99157": {
+      "description": "Hey, we've all been there, you are tired but need to deploy a site now! This cup of joe will solve all you problems!",
+      "id": 99157,
+      "images": [
+        {
+          "alt": "a cup of coffee",
+          "src": {
+            "large": "https://was-reach-hackathon-img.now.sh/a-cup-of-joe_L.jpg",
+            "medium": "https://was-reach-hackathon-img.now.sh/a-cup-of-joe_M.jpg",
+            "small": "https://was-reach-hackathon-img.now.sh/a-cup-of-joe_S.jpg"
+          }
+        }
+      ],
+      "name": "A Cup of Joe",
+      "price": 54,
+      "rating": 4.9,
+      "stock": 0
+    }
+  },
+  "reviews": {
+    "18272": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 18272,
+        "rating": 5,
+        "title": "Great product"
+      },
+      {
+        "author": {
+          "name": "Maria Svensson"
+        },
+        "date": "2019-03-23",
+        "description": "I liked it!",
+        "product": 18272,
+        "rating": 5,
+        "title": "Totaly ok!"
+      }
+    ],
+    "19336": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 19336,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "20281": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 20281,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "23787": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 23787,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "28261": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 28261,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "38424": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 38424,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "43638": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 43638,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "45927": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 45927,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "72067": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 72067,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "78960": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 78960,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "82614": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 82614,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "83687": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 83687,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "84108": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 84108,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "93102": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 93102,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ],
+    "99157": [
+      {
+        "author": {
+          "name": "John Doe"
+        },
+        "date": "2019-04-23",
+        "description": "I would highly recomend anyone purchasing this product!",
+        "product": 99157,
+        "rating": 5,
+        "title": "Great product"
+      }
+    ]
+  },
+  "couponCodes": {
+    "BLACKFRIDAY": {
+      "discount": 0.85,
+      "valid": true
+    },
+    "BLACKFRIDAY2019": {
+      "discount": 0.85,
+      "valid": true
+    },
+    "SUMMER19": {
+      "discount": 0.9,
+      "valid": true
+    }
+  }
+}
