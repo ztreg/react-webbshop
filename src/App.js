@@ -12,6 +12,7 @@ function App() {
   const [cartData, setCartData] = useState([])
   const [totalPrice, setTotalPrice] = useState(0)
   const [currentUser, setCurrentUser] = useState("Visitor")
+  const [codes, setCodes] = useState([])
 
   return (
     <div className="container-fluid bg-dark">
@@ -22,7 +23,7 @@ function App() {
       </ul>
 
       <CartContext.Provider value={
-        {cartData, setCartData, totalPrice, setTotalPrice, currentUser, setCurrentUser}
+        {cartData, setCartData, totalPrice, setTotalPrice, currentUser, setCurrentUser, codes, setCodes}
         }>
         <User />
         <Cart></Cart>

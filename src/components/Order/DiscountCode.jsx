@@ -7,11 +7,15 @@ export default function DiscountCode(props) {
   }
 
   return (
+    <>
     <form>
       <div className="form-group">
         <label>DiscountCode: <input type="code" className="form-control" name="code" onChange={handleCodeChange}></input></label>
       </div>
     </form>
-  
+    <button className="btn btn-primary" onClick={props.checkCodeValidation}>
+        Place order
+      </button>
+  </>
   )
 }

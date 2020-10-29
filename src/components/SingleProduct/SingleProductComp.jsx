@@ -5,9 +5,14 @@ import CartImage2 from '../Cart/CartImage2'
 
 export default function SingleProductComp(props) {
   const {setCartData, totalPrice, setTotalPrice} = useContext(CartContext)
-
+  let obj = {
+    name: props.data.name,
+    id: props.data.id,
+    price: props.data.price
+  }
+  
   function handleAddCart() {
-    setCartData(oldCartData => [...oldCartData, props.data.name])
+    setCartData(oldCartData => [...oldCartData, obj])
     setTotalPrice(totalPrice + props.data.price)
   }
 
